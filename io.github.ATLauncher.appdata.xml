@@ -28,9 +28,6 @@
   <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/nickavem/io.github.ATLauncher/main/aticon.png</icon>
   <releases>
     <release date="2021-5-1" version="3.4.3.3"/>
-    <description>
-      <p>Add setting to not use HTTP/2</p>
-    </description>
   </releases>
   <content_rating type="oars-1.0">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
