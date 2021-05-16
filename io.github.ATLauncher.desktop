@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ATLauncher
+Exec=/app/bin/atlauncher.sh
+Type=Application
+Icon=io.github.ATLauncher
+Categories=Game;
