@@ -2,5 +2,5 @@
 Name=ATLauncher
 Exec=/app/bin/atlauncher.sh
 Type=Application
-Icon=io.github.ATLauncher
+Icon=io.atlauncher.ATLauncher
 Categories=Game;

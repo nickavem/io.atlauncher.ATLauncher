@@ -11,21 +11,21 @@
   <screenshots>
     <screenshot type="default">
       <caption>Packs Tab</caption>
-      <image>https://raw.githubusercontent.com/nickavem/io.github.ATLauncher/main/Screenshot%20from%202021-05-15%2020-54-44.png</image>
+      <image>https://raw.githubusercontent.com/nickavem/io.atlauncher.ATLauncher/main/Screenshot%20from%202021-05-15%2020-54-44.png</image>
     </screenshot>
     <screenshot>
       <caption>Curseforge Packs</caption>
-      <image>https://raw.githubusercontent.com/nickavem/io.github.ATLauncher/main/Screenshot%20from%202021-05-15%2020-58-43.png</image>
+      <image>https://raw.githubusercontent.com/nickavem/io.atlauncher.ATLauncher/main/Screenshot%20from%202021-05-15%2020-58-43.png</image>
     </screenshot>
     <screenshot>
       <caption>Tools</caption>
-      <image>https://raw.githubusercontent.com/nickavem/io.github.ATLauncher/main/Screenshot%20from%202021-05-15%2021-00-10.png</image>
+      <image>https://raw.githubusercontent.com/nickavem/io.atlauncher.ATLauncher/main/Screenshot%20from%202021-05-15%2021-00-10.png</image>
     </screenshot>
   </screenshots>
   <categories>
     <category>Game</category>
   </categories>
-  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/nickavem/io.github.ATLauncher/main/aticon.png</icon>
+  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/nickavem/io.atlauncher.ATLauncher/main/aticon.png</icon>
   <releases>
     <release date="2021-5-1" version="3.4.3.3"/>
   </releases>
