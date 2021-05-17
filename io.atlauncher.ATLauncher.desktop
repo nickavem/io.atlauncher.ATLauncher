@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=ATLauncher
-Exec=/app/bin/atlauncher.sh
-Type=Application
-Icon=io.atlauncher.ATLauncher
-Categories=Game;

@@ -1,4 +1,4 @@
-app-id: io.atlauncher.ATLauncher
+app-id: com.atlauncher.ATLauncher
 runtime: org.freedesktop.Platform
 runtime-version: '20.08'
 sdk: org.freedesktop.Sdk
@@ -28,7 +28,7 @@ modules:
       build-commands:
           - install -D ATLauncher-3.4.3.3.jar /app/bin/ATLauncher.jar
           - unzip -p /app/bin/ATLauncher.jar assets/image/icon.png > ./icon.png
-          - install -D ./icon.png /app/share/icons/hicolor/256x256/apps/io.atlauncher.ATLauncher.png
+          - install -D ./icon.png /app/share/icons/hicolor/256x256/apps/com.atlauncher.ATLauncher.png
       sources:
           - type: file
             path: ATLauncher-3.4.3.3.jar
@@ -41,18 +41,18 @@ modules:
           - install -D atlauncher.sh /app/bin/atlauncher.sh
       sources:
           - type: file
-            path: atlauncher.sh    
-            
+            path: atlauncher.sh
+
     - name: atlauncher-extra
       buildsystem: simple
       build-commands:
-          - install -D io.atlauncher.ATLauncher.desktop /app/share/applications/io.atlauncher.ATLauncher.desktop
-          - install -D io.atlauncher.ATLauncher.appdata.xml /app/share/metainfo/io.atlauncher.ATLauncher.appdata.xml
+          - install -D com.atlauncher.ATLauncher.desktop /app/share/applications/com.atlauncher.ATLauncher.desktop
+          - install -D com.atlauncher.ATLauncher.metainfo.xml /app/share/metainfo/com.atlauncher.ATLauncher.appdata.xml
       sources:
           - type: file
-            path: io.atlauncher.ATLauncher.appdata.xml
+            path: com.atlauncher.ATLauncher.metainfo.xml
           - type: file
-            path: io.atlauncher.ATLauncher.desktop
- 
+            path: com.atlauncher.ATLauncher.desktop
+
 
 
